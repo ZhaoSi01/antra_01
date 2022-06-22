@@ -41,25 +41,19 @@ SELECT  Name, color
 FROM Production.Product
 WHERE Name LIKE 'S%';
 --10
-(SELECT Name, ListPrice
+SELECT top 5 Name, ListPrice
 FROM Production.Product
-WHERE Name LIKE  'A%'
-)union
-(SELECT top 2 Name, ListPrice
-FROM Production.Product
-WHERE Name LIKE  'Seat%'
-)ORDER BY name
+WHERE Name LIKE  'A%' or Name LIKE  'S%'
+order by name;
+
 --11
 SELECT Name
 FROM Production.Product
 WHERE Name LIKE  'SPO[^K]%'
 ORDER BY NAME
 --12
-SELECT DISTINCT ProductSubcategoryID, Color
+SELECT DISTINCT isnull(ProductSubcategoryID, '-'),isnull( Color,'-')
 FROM Production.Product
-WHERE color is not null
-and  
-ProductSubcategoryID is not null
 ;
 
 
