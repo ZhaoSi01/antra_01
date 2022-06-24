@@ -153,17 +153,41 @@ group by p.ProductName
 
 --17
 --A
+--union
 
+(select distinct City
+FROM Customers)
+UNION
 
 
 --b
+--no union
 select City from(SELECT City, count(customerID)as co
 FROM Customers c
 GROUP BY c.City)help
 where co >=2
 
 
+--18
+select a.Cities
+from 
+(select c.city as Cities, p.ProductName as Produ
+from orders o
+join Customers C
+on o.CustomerID = c.customerID
+join [Order Details]od 
+on od.OrderID = o.OrderID
+join Products p 
+on p.ProductID = od.ProductID) a 
+where count(Produ) >=2
+group by a.Cities
 
 
+--19
 
+--20
+
+--21
+--1 use distinct constrains
+--2 use delete method to remove the selected data
 
