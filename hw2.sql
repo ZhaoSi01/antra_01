@@ -89,5 +89,50 @@ cross join
 Shippers s2
 
 --10
-SELECT ORDERdate
-from orders
+SELECT distinct o.ORDERdate,  p.productName
+from orders o
+join [order details]od
+on od.orderID = o.orderID
+join products p
+on od.productID= p.productID
+
+--11
+select distinct e1.firstName+' '+e1.lastName , e2.firstName+' '+ e2.lastname 
+from employees e1
+join employees e2
+on e1.title = e2.title 
+where e1.employeeID != e2.employeeID
+
+--12
+select Manager from 
+(select count(j.firstName+' '+j.lastName) as count1,j.firstName+' '+j.lastName as Manager
+from employees j
+join employees e
+on e.ReportsTo = j.employeeID
+GROUP by j.firstName+' '+j.lastName)a
+
+--13
+--need to use funvtion for type
+SELECT c.city as city, c.CompanyName as name , c.ContactName as [Contact Name]
+from Customers c
+UNION ALL
+SELECT s.city as city, s.CompanyName as name , s.ContactName as [Contact Name]
+FROM Suppliers s
+
+--14
+select City
+from Customers
+UNION
+select City
+from Employees
+
+--15
+--a
+select City
+from Customers
+where city not in (select City
+from Employees)
+
+--b
+select City
+from Customers
