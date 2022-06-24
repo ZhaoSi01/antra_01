@@ -184,8 +184,14 @@ group by a.Cities
 
 
 --19
+select 
 
 --20
+select top 1 shipcity, count(orderID) as co
+from Orders
+group by shipcity
+ORDER by co desc
+
 
 --21
 --1 use distinct constrains
