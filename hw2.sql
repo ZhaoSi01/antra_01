@@ -184,7 +184,7 @@ group by a.Cities
 
 
 --19
-select 
+select top 5 AVG(products.unitprice) from Products
 
 --20
 select top 1 shipcity, count(orderID) as co
