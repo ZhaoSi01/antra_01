@@ -184,13 +184,22 @@ group by a.Cities
 
 
 --19
-select top 5 od.ProductID,p.ProductName, count(OrderID) as co
+select avg(p1) from(select top 5 od.ProductID,p.ProductName as pn,p.UnitPrice as p1, count(OrderID) as co
 FROM [Order Details]od
 join Products p
 on p.ProductID = od.ProductID
-group by od.ProductID,p.ProductName
-order by co desc
---select top 5 AVG(products.unitprice) from Products
+group by od.ProductID,p.ProductName,p.UnitPrice
+order by co desc)help
+GROUP by help.pn
+
+-- select top 5 od.ProductID,p.ProductName as pn,p.UnitPrice as p1, count(OrderID) as co
+-- FROM [Order Details]od
+-- join Products p
+-- on p.ProductID = od.ProductID
+-- group by od.ProductID,p.ProductName,p.UnitPrice
+-- order by co desc
+
+
 
 --20
 select top 1 shipcity, count(orderID) as co
