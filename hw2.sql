@@ -134,5 +134,36 @@ where city not in (select City
 from Employees)
 
 --b
-select City
-from Customers
+select c.City as city
+from Customers c
+left JOIN
+Employees E
+where City not in Employees E
+--Wrong
+
+--16
+SELECT p.ProductName, Sum(od.quantity) 
+from Products p 
+join [Order Details] od 
+on p.ProductID = od.ProductID 
+join Orders o 
+ON od.OrderID = o.OrderID
+group by p.ProductName
+--GROUP BY p.ProductID
+
+--17
+--A
+
+
+
+--b
+select City from(SELECT City, count(customerID)as co
+FROM Customers c
+GROUP BY c.City)help
+where co >=2
+
+
+
+
+
+
