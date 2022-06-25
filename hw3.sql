@@ -115,12 +115,40 @@ where c.cName = 'Green Bay'
 
 
 
+CREATE PROC [sp_birthday_employees_(YangYu)]
+AS
+BEGIN
+-- select Month(e.BirthDate) as Month, e.EmployeeID
+create table [birthday_employees_your_last_name_(YangYu)]
+(
+Month int,
+eid int
+)
+insert into [birthday_employees_your_last_name_(YangYu)] select Month(e.BirthDate) as Month, e.EmployeeID from  Employees e where Month(e.BirthDate) = 2
+End
+
+exec [sp_birthday_employees_(YangYu)]
+select * from [birthday_employees_your_last_name_(YangYu)];
+
+DROP table [birthday_employees_your_last_name_(YangYu)]
+
+
+-- DROP table [birthday_employees_your_last_name_(YangYu)]
+ --drop proc [sp_birthday_employees_(YangYu)]
+ 
 
 --6
 --if both results of full table a except full table b and
 --full table b except full table a are blank, the two tables are totally same
+--Example 
 select * 
 from city_Yu a
 EXCEPT 
 select * 
 from city_Yu b
+
+select * 
+from city_Yu b
+EXCEPT 
+select * 
+from city_Yu a
