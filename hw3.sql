@@ -112,9 +112,6 @@ where c.cName = 'Green Bay'
 
 --5
 
-
-
-
 CREATE PROC [sp_birthday_employees_(YangYu)]
 AS
 BEGIN
