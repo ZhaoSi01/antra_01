@@ -103,4 +103,24 @@ where cid = 1;
 INSERT into city_Yu VALUEs(3,'Madison')
 DELETE FROM city_Yu WHERE 'Seattle' = cName;
 
+CREATE VIEW [Packers_your_name] AS 
+SELECT p.pName
+from people_Yu p
+join city_Yu C
+on c.cid = p.Cid 
+where c.cName = 'Green Bay'
 
+--5
+
+
+
+
+
+--6
+--if both results of full table a except full table b and
+--full table b except full table a are blank, the two tables are totally same
+select * 
+from city_Yu a
+EXCEPT 
+select * 
+from city_Yu b
