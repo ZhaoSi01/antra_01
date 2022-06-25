@@ -75,6 +75,32 @@ END
 -- order by count(o.shipcity) desc
 
 --4 
-CREATE Table city_Yu(cid int, cid int)
-CREATE Table people_Yu(pid int, pName varchar(20), cid int)
+CREATE Table city_Yu
+(cid int,
+ cName varchar(20))
+
+create table people_Yu
+(
+Id int,
+PName varchar(20),
+Cid int
+)
+INSERT into city_Yu VALUEs(1,'Seattle')
+INSERT into city_Yu VALUES
+(2,'Green Bay')
+
+--select * from city_Yu 
+
+INSERT into people_Yu VALUEs(1,'Aaron Rodgers', 2)
+INSERT into people_Yu VALUEs(2,'Russell Wilson', 1)
+INSERT into people_Yu VALUEs(3,'Jody Nelson', 2)
+--select * from people_Yu
+
+UPDATE people_Yu SET
+cid = 3
+where cid = 1;
+
+INSERT into city_Yu VALUEs(3,'Madison')
+DELETE FROM city_Yu WHERE 'Seattle' = cName;
+
 
