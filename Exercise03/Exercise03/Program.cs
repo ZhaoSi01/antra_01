@@ -32,5 +32,29 @@ else
 }
 
 Console.WriteLine("Correct is {0}", correct);
+pyramid(5);
+
+
+static void pyramid(int line)
+{
+    Console.WriteLine("fffff");
+    for(int i = 0; i < line; i++)
+    {
+        while (i < (line * 2 - 1))
+        {
+            Console.Write(' ');
+        }
+        while(i < (2 * i - 1))
+        {
+            Console.Write("*");
+        }
+        
+        while (i < (line * 2 - 1))
+        {
+            Console.Write(' ');
+        }
+        Console.WriteLine(" ");
+    }
+}
 
 
