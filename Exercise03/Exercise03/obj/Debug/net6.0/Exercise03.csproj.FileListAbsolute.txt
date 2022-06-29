@@ -1,0 +1,15 @@
+/Users/yangyu/eclipse-workspace/409cyk/src/antra_01/Exercise03/Exercise03/bin/Debug/net6.0/Exercise03
+/Users/yangyu/eclipse-workspace/409cyk/src/antra_01/Exercise03/Exercise03/bin/Debug/net6.0/Exercise03.deps.json
+/Users/yangyu/eclipse-workspace/409cyk/src/antra_01/Exercise03/Exercise03/bin/Debug/net6.0/Exercise03.runtimeconfig.json
+/Users/yangyu/eclipse-workspace/409cyk/src/antra_01/Exercise03/Exercise03/bin/Debug/net6.0/Exercise03.dll
+/Users/yangyu/eclipse-workspace/409cyk/src/antra_01/Exercise03/Exercise03/bin/Debug/net6.0/Exercise03.pdb
+/Users/yangyu/eclipse-workspace/409cyk/src/antra_01/Exercise03/Exercise03/obj/Debug/net6.0/Exercise03.csproj.AssemblyReference.cache
+/Users/yangyu/eclipse-workspace/409cyk/src/antra_01/Exercise03/Exercise03/obj/Debug/net6.0/Exercise03.GeneratedMSBuildEditorConfig.editorconfig
+/Users/yangyu/eclipse-workspace/409cyk/src/antra_01/Exercise03/Exercise03/obj/Debug/net6.0/Exercise03.AssemblyInfoInputs.cache
+/Users/yangyu/eclipse-workspace/409cyk/src/antra_01/Exercise03/Exercise03/obj/Debug/net6.0/Exercise03.AssemblyInfo.cs
+/Users/yangyu/eclipse-workspace/409cyk/src/antra_01/Exercise03/Exercise03/obj/Debug/net6.0/Exercise03.csproj.CoreCompileInputs.cache
+/Users/yangyu/eclipse-workspace/409cyk/src/antra_01/Exercise03/Exercise03/obj/Debug/net6.0/Exercise03.dll
+/Users/yangyu/eclipse-workspace/409cyk/src/antra_01/Exercise03/Exercise03/obj/Debug/net6.0/refint/Exercise03.dll
+/Users/yangyu/eclipse-workspace/409cyk/src/antra_01/Exercise03/Exercise03/obj/Debug/net6.0/Exercise03.pdb
+/Users/yangyu/eclipse-workspace/409cyk/src/antra_01/Exercise03/Exercise03/obj/Debug/net6.0/Exercise03.genruntimeconfig.cache
+/Users/yangyu/eclipse-workspace/409cyk/src/antra_01/Exercise03/Exercise03/obj/Debug/net6.0/ref/Exercise03.dll
