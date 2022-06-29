@@ -18,6 +18,7 @@ Console.WriteLine("Minimum of int:{0} , Maximum  int:{1}", int.MinValue, int.Max
 Console.WriteLine("Minimum decimal:{0} , Maximum decimal:{1} ", decimal.MinValue, decimal.MaxValue);
 
 //Second part
+Console.WriteLine("Please input the century");
 String s = Console.ReadLine();
 int i = Convert.ToInt32(s);
 
@@ -25,3 +26,5 @@ Console.WriteLine("Century = {0}, years = {1}, days = {2}, hours = {3}, minutes 
     i, 100 * i, 365.24 * 100 * i,
     365.24 * 100 * i*24, 365.24 * 100 * i * 24 * 60,
     365.24 * 100 * i * 24 * 3600);
+
+
