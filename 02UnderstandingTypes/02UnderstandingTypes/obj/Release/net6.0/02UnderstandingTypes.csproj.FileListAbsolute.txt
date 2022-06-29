@@ -1,0 +1,15 @@
+/Users/yangyu/eclipse-workspace/409cyk/src/antra_01/02UnderstandingTypes/02UnderstandingTypes/bin/Release/net6.0/02UnderstandingTypes
+/Users/yangyu/eclipse-workspace/409cyk/src/antra_01/02UnderstandingTypes/02UnderstandingTypes/bin/Release/net6.0/02UnderstandingTypes.deps.json
+/Users/yangyu/eclipse-workspace/409cyk/src/antra_01/02UnderstandingTypes/02UnderstandingTypes/bin/Release/net6.0/02UnderstandingTypes.runtimeconfig.json
+/Users/yangyu/eclipse-workspace/409cyk/src/antra_01/02UnderstandingTypes/02UnderstandingTypes/bin/Release/net6.0/02UnderstandingTypes.dll
+/Users/yangyu/eclipse-workspace/409cyk/src/antra_01/02UnderstandingTypes/02UnderstandingTypes/bin/Release/net6.0/02UnderstandingTypes.pdb
+/Users/yangyu/eclipse-workspace/409cyk/src/antra_01/02UnderstandingTypes/02UnderstandingTypes/obj/Release/net6.0/02UnderstandingTypes.csproj.AssemblyReference.cache
+/Users/yangyu/eclipse-workspace/409cyk/src/antra_01/02UnderstandingTypes/02UnderstandingTypes/obj/Release/net6.0/02UnderstandingTypes.GeneratedMSBuildEditorConfig.editorconfig
+/Users/yangyu/eclipse-workspace/409cyk/src/antra_01/02UnderstandingTypes/02UnderstandingTypes/obj/Release/net6.0/02UnderstandingTypes.AssemblyInfoInputs.cache
+/Users/yangyu/eclipse-workspace/409cyk/src/antra_01/02UnderstandingTypes/02UnderstandingTypes/obj/Release/net6.0/02UnderstandingTypes.AssemblyInfo.cs
+/Users/yangyu/eclipse-workspace/409cyk/src/antra_01/02UnderstandingTypes/02UnderstandingTypes/obj/Release/net6.0/02UnderstandingTypes.csproj.CoreCompileInputs.cache
+/Users/yangyu/eclipse-workspace/409cyk/src/antra_01/02UnderstandingTypes/02UnderstandingTypes/obj/Release/net6.0/02UnderstandingTypes.dll
+/Users/yangyu/eclipse-workspace/409cyk/src/antra_01/02UnderstandingTypes/02UnderstandingTypes/obj/Release/net6.0/refint/02UnderstandingTypes.dll
+/Users/yangyu/eclipse-workspace/409cyk/src/antra_01/02UnderstandingTypes/02UnderstandingTypes/obj/Release/net6.0/02UnderstandingTypes.pdb
+/Users/yangyu/eclipse-workspace/409cyk/src/antra_01/02UnderstandingTypes/02UnderstandingTypes/obj/Release/net6.0/02UnderstandingTypes.genruntimeconfig.cache
+/Users/yangyu/eclipse-workspace/409cyk/src/antra_01/02UnderstandingTypes/02UnderstandingTypes/obj/Release/net6.0/ref/02UnderstandingTypes.dll

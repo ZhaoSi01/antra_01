@@ -1,4 +1,27 @@
 ﻿<Properties StartupConfiguration="{81A81D8B-602A-4ECD-9D96-879BC22AD69F}|Default">
+  <MonoDevelop.Ide.ItemProperties.02UnderstandingTypes PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="02UnderstandingTypes/edc.cs">
+    <Files>
+      <File FileName="02UnderstandingTypes/Program.cs" Line="5" Column="1" />
+      <File FileName="02UnderstandingTypes/edc.cs" Line="11" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="02UnderstandingTypes" expanded="True">
+            <Node name="02UnderstandingTypes" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
   <MultiItemStartupConfigurations />
-  <MonoDevelop.Ide.ItemProperties.02UnderstandingTypes FirstBuild="True" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
 </Properties>

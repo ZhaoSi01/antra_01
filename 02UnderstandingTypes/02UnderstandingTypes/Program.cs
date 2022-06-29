@@ -1,4 +1,7 @@
-﻿// First part
+﻿
+
+
+// First part
 Console.WriteLine("sbyte, byte, short, ushort, int, uint, long");
 Console.WriteLine("Size of sbyte:{0} ", sizeof(sbyte));
 Console.WriteLine("Size of byte:{0} ", sizeof(byte));
@@ -24,7 +27,6 @@ int i = Convert.ToInt32(s);
 
 Console.WriteLine("Century = {0}, years = {1}, days = {2}, hours = {3}, minutes = {4}, seconds = {5} ",
     i, 100 * i, 365.24 * 100 * i,
-    365.24 * 100 * i*24, 365.24 * 100 * i * 24 * 60,
+    365.24 * 100 * i * 24, 365.24 * 100 * i * 24 * 60,
     365.24 * 100 * i * 24 * 3600);
-
 
