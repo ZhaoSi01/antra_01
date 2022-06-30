@@ -1,0 +1,15 @@
+/Users/yangyu/eclipse-workspace/409cyk/src/antra_01/CSharpAssignment2/CSharpAssignment2/bin/Debug/net6.0/CSharpAssignment2
+/Users/yangyu/eclipse-workspace/409cyk/src/antra_01/CSharpAssignment2/CSharpAssignment2/bin/Debug/net6.0/CSharpAssignment2.deps.json
+/Users/yangyu/eclipse-workspace/409cyk/src/antra_01/CSharpAssignment2/CSharpAssignment2/bin/Debug/net6.0/CSharpAssignment2.runtimeconfig.json
+/Users/yangyu/eclipse-workspace/409cyk/src/antra_01/CSharpAssignment2/CSharpAssignment2/bin/Debug/net6.0/CSharpAssignment2.dll
+/Users/yangyu/eclipse-workspace/409cyk/src/antra_01/CSharpAssignment2/CSharpAssignment2/bin/Debug/net6.0/CSharpAssignment2.pdb
+/Users/yangyu/eclipse-workspace/409cyk/src/antra_01/CSharpAssignment2/CSharpAssignment2/obj/Debug/net6.0/CSharpAssignment2.csproj.AssemblyReference.cache
+/Users/yangyu/eclipse-workspace/409cyk/src/antra_01/CSharpAssignment2/CSharpAssignment2/obj/Debug/net6.0/CSharpAssignment2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/yangyu/eclipse-workspace/409cyk/src/antra_01/CSharpAssignment2/CSharpAssignment2/obj/Debug/net6.0/CSharpAssignment2.AssemblyInfoInputs.cache
+/Users/yangyu/eclipse-workspace/409cyk/src/antra_01/CSharpAssignment2/CSharpAssignment2/obj/Debug/net6.0/CSharpAssignment2.AssemblyInfo.cs
+/Users/yangyu/eclipse-workspace/409cyk/src/antra_01/CSharpAssignment2/CSharpAssignment2/obj/Debug/net6.0/CSharpAssignment2.csproj.CoreCompileInputs.cache
+/Users/yangyu/eclipse-workspace/409cyk/src/antra_01/CSharpAssignment2/CSharpAssignment2/obj/Debug/net6.0/CSharpAssignment2.dll
+/Users/yangyu/eclipse-workspace/409cyk/src/antra_01/CSharpAssignment2/CSharpAssignment2/obj/Debug/net6.0/refint/CSharpAssignment2.dll
+/Users/yangyu/eclipse-workspace/409cyk/src/antra_01/CSharpAssignment2/CSharpAssignment2/obj/Debug/net6.0/CSharpAssignment2.pdb
+/Users/yangyu/eclipse-workspace/409cyk/src/antra_01/CSharpAssignment2/CSharpAssignment2/obj/Debug/net6.0/CSharpAssignment2.genruntimeconfig.cache
+/Users/yangyu/eclipse-workspace/409cyk/src/antra_01/CSharpAssignment2/CSharpAssignment2/obj/Debug/net6.0/ref/CSharpAssignment2.dll
