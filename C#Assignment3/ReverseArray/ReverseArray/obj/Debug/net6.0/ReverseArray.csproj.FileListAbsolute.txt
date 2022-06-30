@@ -1,0 +1,15 @@
+/Users/yangyu/eclipse-workspace/409cyk/src/antra_01/C#Assignment3/ReverseArray/ReverseArray/bin/Debug/net6.0/ReverseArray
+/Users/yangyu/eclipse-workspace/409cyk/src/antra_01/C#Assignment3/ReverseArray/ReverseArray/bin/Debug/net6.0/ReverseArray.deps.json
+/Users/yangyu/eclipse-workspace/409cyk/src/antra_01/C#Assignment3/ReverseArray/ReverseArray/bin/Debug/net6.0/ReverseArray.runtimeconfig.json
+/Users/yangyu/eclipse-workspace/409cyk/src/antra_01/C#Assignment3/ReverseArray/ReverseArray/bin/Debug/net6.0/ReverseArray.dll
+/Users/yangyu/eclipse-workspace/409cyk/src/antra_01/C#Assignment3/ReverseArray/ReverseArray/bin/Debug/net6.0/ReverseArray.pdb
+/Users/yangyu/eclipse-workspace/409cyk/src/antra_01/C#Assignment3/ReverseArray/ReverseArray/obj/Debug/net6.0/ReverseArray.csproj.AssemblyReference.cache
+/Users/yangyu/eclipse-workspace/409cyk/src/antra_01/C#Assignment3/ReverseArray/ReverseArray/obj/Debug/net6.0/ReverseArray.GeneratedMSBuildEditorConfig.editorconfig
+/Users/yangyu/eclipse-workspace/409cyk/src/antra_01/C#Assignment3/ReverseArray/ReverseArray/obj/Debug/net6.0/ReverseArray.AssemblyInfoInputs.cache
+/Users/yangyu/eclipse-workspace/409cyk/src/antra_01/C#Assignment3/ReverseArray/ReverseArray/obj/Debug/net6.0/ReverseArray.AssemblyInfo.cs
+/Users/yangyu/eclipse-workspace/409cyk/src/antra_01/C#Assignment3/ReverseArray/ReverseArray/obj/Debug/net6.0/ReverseArray.csproj.CoreCompileInputs.cache
+/Users/yangyu/eclipse-workspace/409cyk/src/antra_01/C#Assignment3/ReverseArray/ReverseArray/obj/Debug/net6.0/ReverseArray.dll
+/Users/yangyu/eclipse-workspace/409cyk/src/antra_01/C#Assignment3/ReverseArray/ReverseArray/obj/Debug/net6.0/refint/ReverseArray.dll
+/Users/yangyu/eclipse-workspace/409cyk/src/antra_01/C#Assignment3/ReverseArray/ReverseArray/obj/Debug/net6.0/ReverseArray.pdb
+/Users/yangyu/eclipse-workspace/409cyk/src/antra_01/C#Assignment3/ReverseArray/ReverseArray/obj/Debug/net6.0/ReverseArray.genruntimeconfig.cache
+/Users/yangyu/eclipse-workspace/409cyk/src/antra_01/C#Assignment3/ReverseArray/ReverseArray/obj/Debug/net6.0/ref/ReverseArray.dll
