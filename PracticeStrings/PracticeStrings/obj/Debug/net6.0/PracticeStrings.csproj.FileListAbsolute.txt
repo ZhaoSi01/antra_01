@@ -1,0 +1,15 @@
+/Users/yangyu/eclipse-workspace/409cyk/src/antra_01/PracticeStrings/PracticeStrings/bin/Debug/net6.0/PracticeStrings
+/Users/yangyu/eclipse-workspace/409cyk/src/antra_01/PracticeStrings/PracticeStrings/bin/Debug/net6.0/PracticeStrings.deps.json
+/Users/yangyu/eclipse-workspace/409cyk/src/antra_01/PracticeStrings/PracticeStrings/bin/Debug/net6.0/PracticeStrings.runtimeconfig.json
+/Users/yangyu/eclipse-workspace/409cyk/src/antra_01/PracticeStrings/PracticeStrings/bin/Debug/net6.0/PracticeStrings.dll
+/Users/yangyu/eclipse-workspace/409cyk/src/antra_01/PracticeStrings/PracticeStrings/bin/Debug/net6.0/PracticeStrings.pdb
+/Users/yangyu/eclipse-workspace/409cyk/src/antra_01/PracticeStrings/PracticeStrings/obj/Debug/net6.0/PracticeStrings.csproj.AssemblyReference.cache
+/Users/yangyu/eclipse-workspace/409cyk/src/antra_01/PracticeStrings/PracticeStrings/obj/Debug/net6.0/PracticeStrings.GeneratedMSBuildEditorConfig.editorconfig
+/Users/yangyu/eclipse-workspace/409cyk/src/antra_01/PracticeStrings/PracticeStrings/obj/Debug/net6.0/PracticeStrings.AssemblyInfoInputs.cache
+/Users/yangyu/eclipse-workspace/409cyk/src/antra_01/PracticeStrings/PracticeStrings/obj/Debug/net6.0/PracticeStrings.AssemblyInfo.cs
+/Users/yangyu/eclipse-workspace/409cyk/src/antra_01/PracticeStrings/PracticeStrings/obj/Debug/net6.0/PracticeStrings.csproj.CoreCompileInputs.cache
+/Users/yangyu/eclipse-workspace/409cyk/src/antra_01/PracticeStrings/PracticeStrings/obj/Debug/net6.0/PracticeStrings.dll
+/Users/yangyu/eclipse-workspace/409cyk/src/antra_01/PracticeStrings/PracticeStrings/obj/Debug/net6.0/refint/PracticeStrings.dll
+/Users/yangyu/eclipse-workspace/409cyk/src/antra_01/PracticeStrings/PracticeStrings/obj/Debug/net6.0/PracticeStrings.pdb
+/Users/yangyu/eclipse-workspace/409cyk/src/antra_01/PracticeStrings/PracticeStrings/obj/Debug/net6.0/PracticeStrings.genruntimeconfig.cache
+/Users/yangyu/eclipse-workspace/409cyk/src/antra_01/PracticeStrings/PracticeStrings/obj/Debug/net6.0/ref/PracticeStrings.dll
