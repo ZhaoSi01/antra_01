@@ -1,4 +1,28 @@
 ﻿<Properties StartupConfiguration="{BC9A1803-1CA2-4259-895D-C4FCF1510125}|Default">
-  <MonoDevelop.Ide.ItemProperties.PracticeStrings FirstBuild="True" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="PracticeStrings/Program.cs">
+    <Files>
+      <File FileName="PracticeStrings/Program.cs" Line="35" Column="6" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="PracticeStrings" expanded="True">
+            <Node name="PracticeStrings" expanded="True">
+              <Node name="ConnectedServicesFolder" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.PracticeStrings PreferredExecutionTarget="MonoDevelop.Default" />
   <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
 </Properties>
