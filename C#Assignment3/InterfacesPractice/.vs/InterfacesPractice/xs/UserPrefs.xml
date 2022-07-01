@@ -2,10 +2,9 @@
   <MonoDevelop.Ide.ItemProperties.InterfacesPractice PreferredExecutionTarget="MonoDevelop.Default" FirstBuild="True" />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
-  <MonoDevelop.Ide.Workbench ActiveDocument="InterfacesPractice/IDepartment.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="InterfacesPractice/IStudent.cs">
     <Files>
-      <File FileName="InterfacesPractice/ICourse.cs" Line="7" Column="34" />
-      <File FileName="InterfacesPractice/IStudent.cs" Line="4" Column="38" />
+      <File FileName="InterfacesPractice/IStudent.cs" Line="9" Column="10" />
       <File FileName="InterfacesPractice/IInstructor.cs" Line="8" Column="2" />
       <File FileName="InterfacesPractice/IDepartment.cs" Line="13" Column="1" />
       <File FileName="InterfacesPractice/IPerson.cs" Line="22" Column="1" />
@@ -14,9 +13,7 @@
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="InterfacesPractice" expanded="True">
-            <Node name="InterfacesPractice" expanded="True">
-              <Node name="IDepartment.cs" selected="True" />
-            </Node>
+            <Node name="InterfacesPractice" expanded="True" />
           </Node>
         </State>
       </Pad>
