@@ -1,4 +1,32 @@
 ﻿<Properties StartupConfiguration="{9AC1A9AD-DB18-4EAE-B125-C9567EC31DBB}|Default">
-  <MonoDevelop.Ide.ItemProperties.InterfacesPractice FirstBuild="True" />
+  <MonoDevelop.Ide.ItemProperties.InterfacesPractice PreferredExecutionTarget="MonoDevelop.Default" FirstBuild="True" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workbench ActiveDocument="InterfacesPractice/IDepartment.cs">
+    <Files>
+      <File FileName="InterfacesPractice/ICourse.cs" Line="7" Column="34" />
+      <File FileName="InterfacesPractice/IStudent.cs" Line="4" Column="38" />
+      <File FileName="InterfacesPractice/IInstructor.cs" Line="8" Column="2" />
+      <File FileName="InterfacesPractice/IDepartment.cs" Line="13" Column="1" />
+      <File FileName="InterfacesPractice/IPerson.cs" Line="22" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="InterfacesPractice" expanded="True">
+            <Node name="InterfacesPractice" expanded="True">
+              <Node name="IDepartment.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
   <MultiItemStartupConfigurations />
 </Properties>
