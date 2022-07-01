@@ -3,9 +3,9 @@ namespace Person
 {
 	//This answers the 2th and the 4th one;
 	abstract class person1
-	{
+	{//int height;
 		public int height { get; set; }
-		//int id;
+		
 
 		public abstract void DoWork();
 
