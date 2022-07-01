@@ -1,4 +1,26 @@
 ﻿<Properties StartupConfiguration="{13A6E884-6CB4-4E6F-8C0E-DC3EF5D7F150}|Default">
-  <MonoDevelop.Ide.ItemProperties.PrivateDetail FirstBuild="True" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workbench ActiveDocument="PrivateDetail/Details.cs">
+    <Files>
+      <File FileName="PrivateDetail/Details.cs" Line="24" Column="2" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="PrivateDetail" expanded="True">
+            <Node name="PrivateDetail" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.PrivateDetail PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
   <MultiItemStartupConfigurations />
 </Properties>

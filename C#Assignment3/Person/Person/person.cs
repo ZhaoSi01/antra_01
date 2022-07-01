@@ -1,6 +1,7 @@
 ﻿using System;
 namespace Person
 {
+	//This answers the 2th and the 4th one;
 	abstract class person1
 	{
 		public int height { get; set; }
