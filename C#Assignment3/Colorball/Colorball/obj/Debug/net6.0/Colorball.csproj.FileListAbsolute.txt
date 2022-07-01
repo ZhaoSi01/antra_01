@@ -3,3 +3,13 @@
 /Users/yangyu/eclipse-workspace/409cyk/src/antra_01/C#Assignment3/Colorball/Colorball/obj/Debug/net6.0/Colorball.AssemblyInfoInputs.cache
 /Users/yangyu/eclipse-workspace/409cyk/src/antra_01/C#Assignment3/Colorball/Colorball/obj/Debug/net6.0/Colorball.AssemblyInfo.cs
 /Users/yangyu/eclipse-workspace/409cyk/src/antra_01/C#Assignment3/Colorball/Colorball/obj/Debug/net6.0/Colorball.csproj.CoreCompileInputs.cache
+/Users/yangyu/eclipse-workspace/409cyk/src/antra_01/C#Assignment3/Colorball/Colorball/bin/Debug/net6.0/Colorball
+/Users/yangyu/eclipse-workspace/409cyk/src/antra_01/C#Assignment3/Colorball/Colorball/bin/Debug/net6.0/Colorball.deps.json
+/Users/yangyu/eclipse-workspace/409cyk/src/antra_01/C#Assignment3/Colorball/Colorball/bin/Debug/net6.0/Colorball.runtimeconfig.json
+/Users/yangyu/eclipse-workspace/409cyk/src/antra_01/C#Assignment3/Colorball/Colorball/bin/Debug/net6.0/Colorball.dll
+/Users/yangyu/eclipse-workspace/409cyk/src/antra_01/C#Assignment3/Colorball/Colorball/bin/Debug/net6.0/Colorball.pdb
+/Users/yangyu/eclipse-workspace/409cyk/src/antra_01/C#Assignment3/Colorball/Colorball/obj/Debug/net6.0/Colorball.dll
+/Users/yangyu/eclipse-workspace/409cyk/src/antra_01/C#Assignment3/Colorball/Colorball/obj/Debug/net6.0/refint/Colorball.dll
+/Users/yangyu/eclipse-workspace/409cyk/src/antra_01/C#Assignment3/Colorball/Colorball/obj/Debug/net6.0/Colorball.pdb
+/Users/yangyu/eclipse-workspace/409cyk/src/antra_01/C#Assignment3/Colorball/Colorball/obj/Debug/net6.0/Colorball.genruntimeconfig.cache
+/Users/yangyu/eclipse-workspace/409cyk/src/antra_01/C#Assignment3/Colorball/Colorball/obj/Debug/net6.0/ref/Colorball.dll
