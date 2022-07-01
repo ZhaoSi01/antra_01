@@ -1,0 +1,15 @@
+/Users/yangyu/eclipse-workspace/409cyk/src/antra_01/C#Assignment3/Person/Person/obj/Debug/net6.0/Person.csproj.AssemblyReference.cache
+/Users/yangyu/eclipse-workspace/409cyk/src/antra_01/C#Assignment3/Person/Person/obj/Debug/net6.0/Person.GeneratedMSBuildEditorConfig.editorconfig
+/Users/yangyu/eclipse-workspace/409cyk/src/antra_01/C#Assignment3/Person/Person/obj/Debug/net6.0/Person.AssemblyInfoInputs.cache
+/Users/yangyu/eclipse-workspace/409cyk/src/antra_01/C#Assignment3/Person/Person/obj/Debug/net6.0/Person.AssemblyInfo.cs
+/Users/yangyu/eclipse-workspace/409cyk/src/antra_01/C#Assignment3/Person/Person/obj/Debug/net6.0/Person.csproj.CoreCompileInputs.cache
+/Users/yangyu/eclipse-workspace/409cyk/src/antra_01/C#Assignment3/Person/Person/bin/Debug/net6.0/Person
+/Users/yangyu/eclipse-workspace/409cyk/src/antra_01/C#Assignment3/Person/Person/bin/Debug/net6.0/Person.deps.json
+/Users/yangyu/eclipse-workspace/409cyk/src/antra_01/C#Assignment3/Person/Person/bin/Debug/net6.0/Person.runtimeconfig.json
+/Users/yangyu/eclipse-workspace/409cyk/src/antra_01/C#Assignment3/Person/Person/bin/Debug/net6.0/Person.dll
+/Users/yangyu/eclipse-workspace/409cyk/src/antra_01/C#Assignment3/Person/Person/bin/Debug/net6.0/Person.pdb
+/Users/yangyu/eclipse-workspace/409cyk/src/antra_01/C#Assignment3/Person/Person/obj/Debug/net6.0/Person.dll
+/Users/yangyu/eclipse-workspace/409cyk/src/antra_01/C#Assignment3/Person/Person/obj/Debug/net6.0/refint/Person.dll
+/Users/yangyu/eclipse-workspace/409cyk/src/antra_01/C#Assignment3/Person/Person/obj/Debug/net6.0/Person.pdb
+/Users/yangyu/eclipse-workspace/409cyk/src/antra_01/C#Assignment3/Person/Person/obj/Debug/net6.0/Person.genruntimeconfig.cache
+/Users/yangyu/eclipse-workspace/409cyk/src/antra_01/C#Assignment3/Person/Person/obj/Debug/net6.0/ref/Person.dll
