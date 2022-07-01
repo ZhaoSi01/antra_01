@@ -1,0 +1,15 @@
+/Users/yangyu/eclipse-workspace/409cyk/src/antra_01/C#Assignment3/Salary/Salary/bin/Debug/net6.0/Salary
+/Users/yangyu/eclipse-workspace/409cyk/src/antra_01/C#Assignment3/Salary/Salary/bin/Debug/net6.0/Salary.deps.json
+/Users/yangyu/eclipse-workspace/409cyk/src/antra_01/C#Assignment3/Salary/Salary/bin/Debug/net6.0/Salary.runtimeconfig.json
+/Users/yangyu/eclipse-workspace/409cyk/src/antra_01/C#Assignment3/Salary/Salary/bin/Debug/net6.0/Salary.dll
+/Users/yangyu/eclipse-workspace/409cyk/src/antra_01/C#Assignment3/Salary/Salary/bin/Debug/net6.0/Salary.pdb
+/Users/yangyu/eclipse-workspace/409cyk/src/antra_01/C#Assignment3/Salary/Salary/obj/Debug/net6.0/Salary.csproj.AssemblyReference.cache
+/Users/yangyu/eclipse-workspace/409cyk/src/antra_01/C#Assignment3/Salary/Salary/obj/Debug/net6.0/Salary.GeneratedMSBuildEditorConfig.editorconfig
+/Users/yangyu/eclipse-workspace/409cyk/src/antra_01/C#Assignment3/Salary/Salary/obj/Debug/net6.0/Salary.AssemblyInfoInputs.cache
+/Users/yangyu/eclipse-workspace/409cyk/src/antra_01/C#Assignment3/Salary/Salary/obj/Debug/net6.0/Salary.AssemblyInfo.cs
+/Users/yangyu/eclipse-workspace/409cyk/src/antra_01/C#Assignment3/Salary/Salary/obj/Debug/net6.0/Salary.csproj.CoreCompileInputs.cache
+/Users/yangyu/eclipse-workspace/409cyk/src/antra_01/C#Assignment3/Salary/Salary/obj/Debug/net6.0/Salary.dll
+/Users/yangyu/eclipse-workspace/409cyk/src/antra_01/C#Assignment3/Salary/Salary/obj/Debug/net6.0/refint/Salary.dll
+/Users/yangyu/eclipse-workspace/409cyk/src/antra_01/C#Assignment3/Salary/Salary/obj/Debug/net6.0/Salary.pdb
+/Users/yangyu/eclipse-workspace/409cyk/src/antra_01/C#Assignment3/Salary/Salary/obj/Debug/net6.0/Salary.genruntimeconfig.cache
+/Users/yangyu/eclipse-workspace/409cyk/src/antra_01/C#Assignment3/Salary/Salary/obj/Debug/net6.0/ref/Salary.dll
