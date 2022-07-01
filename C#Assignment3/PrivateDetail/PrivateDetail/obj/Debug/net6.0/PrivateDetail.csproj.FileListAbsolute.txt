@@ -1,0 +1,15 @@
+/Users/yangyu/eclipse-workspace/409cyk/src/antra_01/C#Assignment3/PrivateDetail/PrivateDetail/bin/Debug/net6.0/PrivateDetail
+/Users/yangyu/eclipse-workspace/409cyk/src/antra_01/C#Assignment3/PrivateDetail/PrivateDetail/bin/Debug/net6.0/PrivateDetail.deps.json
+/Users/yangyu/eclipse-workspace/409cyk/src/antra_01/C#Assignment3/PrivateDetail/PrivateDetail/bin/Debug/net6.0/PrivateDetail.runtimeconfig.json
+/Users/yangyu/eclipse-workspace/409cyk/src/antra_01/C#Assignment3/PrivateDetail/PrivateDetail/bin/Debug/net6.0/PrivateDetail.dll
+/Users/yangyu/eclipse-workspace/409cyk/src/antra_01/C#Assignment3/PrivateDetail/PrivateDetail/bin/Debug/net6.0/PrivateDetail.pdb
+/Users/yangyu/eclipse-workspace/409cyk/src/antra_01/C#Assignment3/PrivateDetail/PrivateDetail/obj/Debug/net6.0/PrivateDetail.csproj.AssemblyReference.cache
+/Users/yangyu/eclipse-workspace/409cyk/src/antra_01/C#Assignment3/PrivateDetail/PrivateDetail/obj/Debug/net6.0/PrivateDetail.GeneratedMSBuildEditorConfig.editorconfig
+/Users/yangyu/eclipse-workspace/409cyk/src/antra_01/C#Assignment3/PrivateDetail/PrivateDetail/obj/Debug/net6.0/PrivateDetail.AssemblyInfoInputs.cache
+/Users/yangyu/eclipse-workspace/409cyk/src/antra_01/C#Assignment3/PrivateDetail/PrivateDetail/obj/Debug/net6.0/PrivateDetail.AssemblyInfo.cs
+/Users/yangyu/eclipse-workspace/409cyk/src/antra_01/C#Assignment3/PrivateDetail/PrivateDetail/obj/Debug/net6.0/PrivateDetail.csproj.CoreCompileInputs.cache
+/Users/yangyu/eclipse-workspace/409cyk/src/antra_01/C#Assignment3/PrivateDetail/PrivateDetail/obj/Debug/net6.0/PrivateDetail.dll
+/Users/yangyu/eclipse-workspace/409cyk/src/antra_01/C#Assignment3/PrivateDetail/PrivateDetail/obj/Debug/net6.0/refint/PrivateDetail.dll
+/Users/yangyu/eclipse-workspace/409cyk/src/antra_01/C#Assignment3/PrivateDetail/PrivateDetail/obj/Debug/net6.0/PrivateDetail.pdb
+/Users/yangyu/eclipse-workspace/409cyk/src/antra_01/C#Assignment3/PrivateDetail/PrivateDetail/obj/Debug/net6.0/PrivateDetail.genruntimeconfig.cache
+/Users/yangyu/eclipse-workspace/409cyk/src/antra_01/C#Assignment3/PrivateDetail/PrivateDetail/obj/Debug/net6.0/ref/PrivateDetail.dll
