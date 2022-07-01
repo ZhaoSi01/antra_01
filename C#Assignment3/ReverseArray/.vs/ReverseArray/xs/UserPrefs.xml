@@ -1,4 +1,26 @@
 ﻿<Properties StartupConfiguration="{492C0CF4-9C41-43DA-BE56-FC35FE07A23A}|Default">
-  <MonoDevelop.Ide.ItemProperties.ReverseArray FirstBuild="True" />
+  <MonoDevelop.Ide.ItemProperties.ReverseArray PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workbench ActiveDocument="ReverseArray/ReverseArr.cs">
+    <Files>
+      <File FileName="ReverseArray/ReverseArr.cs" Line="16" Column="15" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="ReverseArray" expanded="True">
+            <Node name="ReverseArray" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
   <MultiItemStartupConfigurations />
 </Properties>

@@ -1,0 +1,15 @@
+/Users/yangyu/eclipse-workspace/409cyk/src/antra_01/C#Assignment3/Fibonacci/Fibonacci/bin/Debug/net6.0/Fibonacci
+/Users/yangyu/eclipse-workspace/409cyk/src/antra_01/C#Assignment3/Fibonacci/Fibonacci/bin/Debug/net6.0/Fibonacci.deps.json
+/Users/yangyu/eclipse-workspace/409cyk/src/antra_01/C#Assignment3/Fibonacci/Fibonacci/bin/Debug/net6.0/Fibonacci.runtimeconfig.json
+/Users/yangyu/eclipse-workspace/409cyk/src/antra_01/C#Assignment3/Fibonacci/Fibonacci/bin/Debug/net6.0/Fibonacci.dll
+/Users/yangyu/eclipse-workspace/409cyk/src/antra_01/C#Assignment3/Fibonacci/Fibonacci/bin/Debug/net6.0/Fibonacci.pdb
+/Users/yangyu/eclipse-workspace/409cyk/src/antra_01/C#Assignment3/Fibonacci/Fibonacci/obj/Debug/net6.0/Fibonacci.csproj.AssemblyReference.cache
+/Users/yangyu/eclipse-workspace/409cyk/src/antra_01/C#Assignment3/Fibonacci/Fibonacci/obj/Debug/net6.0/Fibonacci.GeneratedMSBuildEditorConfig.editorconfig
+/Users/yangyu/eclipse-workspace/409cyk/src/antra_01/C#Assignment3/Fibonacci/Fibonacci/obj/Debug/net6.0/Fibonacci.AssemblyInfoInputs.cache
+/Users/yangyu/eclipse-workspace/409cyk/src/antra_01/C#Assignment3/Fibonacci/Fibonacci/obj/Debug/net6.0/Fibonacci.AssemblyInfo.cs
+/Users/yangyu/eclipse-workspace/409cyk/src/antra_01/C#Assignment3/Fibonacci/Fibonacci/obj/Debug/net6.0/Fibonacci.csproj.CoreCompileInputs.cache
+/Users/yangyu/eclipse-workspace/409cyk/src/antra_01/C#Assignment3/Fibonacci/Fibonacci/obj/Debug/net6.0/Fibonacci.dll
+/Users/yangyu/eclipse-workspace/409cyk/src/antra_01/C#Assignment3/Fibonacci/Fibonacci/obj/Debug/net6.0/refint/Fibonacci.dll
+/Users/yangyu/eclipse-workspace/409cyk/src/antra_01/C#Assignment3/Fibonacci/Fibonacci/obj/Debug/net6.0/Fibonacci.pdb
+/Users/yangyu/eclipse-workspace/409cyk/src/antra_01/C#Assignment3/Fibonacci/Fibonacci/obj/Debug/net6.0/Fibonacci.genruntimeconfig.cache
+/Users/yangyu/eclipse-workspace/409cyk/src/antra_01/C#Assignment3/Fibonacci/Fibonacci/obj/Debug/net6.0/ref/Fibonacci.dll
