@@ -1,0 +1,15 @@
+/Users/yangyu/eclipse-workspace/409cyk/src/antra_01/C#Assignment3/4Principles/4Principles/bin/Debug/net6.0/4Principles
+/Users/yangyu/eclipse-workspace/409cyk/src/antra_01/C#Assignment3/4Principles/4Principles/bin/Debug/net6.0/4Principles.deps.json
+/Users/yangyu/eclipse-workspace/409cyk/src/antra_01/C#Assignment3/4Principles/4Principles/bin/Debug/net6.0/4Principles.runtimeconfig.json
+/Users/yangyu/eclipse-workspace/409cyk/src/antra_01/C#Assignment3/4Principles/4Principles/bin/Debug/net6.0/4Principles.dll
+/Users/yangyu/eclipse-workspace/409cyk/src/antra_01/C#Assignment3/4Principles/4Principles/bin/Debug/net6.0/4Principles.pdb
+/Users/yangyu/eclipse-workspace/409cyk/src/antra_01/C#Assignment3/4Principles/4Principles/obj/Debug/net6.0/4Principles.csproj.AssemblyReference.cache
+/Users/yangyu/eclipse-workspace/409cyk/src/antra_01/C#Assignment3/4Principles/4Principles/obj/Debug/net6.0/4Principles.GeneratedMSBuildEditorConfig.editorconfig
+/Users/yangyu/eclipse-workspace/409cyk/src/antra_01/C#Assignment3/4Principles/4Principles/obj/Debug/net6.0/4Principles.AssemblyInfoInputs.cache
+/Users/yangyu/eclipse-workspace/409cyk/src/antra_01/C#Assignment3/4Principles/4Principles/obj/Debug/net6.0/4Principles.AssemblyInfo.cs
+/Users/yangyu/eclipse-workspace/409cyk/src/antra_01/C#Assignment3/4Principles/4Principles/obj/Debug/net6.0/4Principles.csproj.CoreCompileInputs.cache
+/Users/yangyu/eclipse-workspace/409cyk/src/antra_01/C#Assignment3/4Principles/4Principles/obj/Debug/net6.0/4Principles.dll
+/Users/yangyu/eclipse-workspace/409cyk/src/antra_01/C#Assignment3/4Principles/4Principles/obj/Debug/net6.0/refint/4Principles.dll
+/Users/yangyu/eclipse-workspace/409cyk/src/antra_01/C#Assignment3/4Principles/4Principles/obj/Debug/net6.0/4Principles.pdb
+/Users/yangyu/eclipse-workspace/409cyk/src/antra_01/C#Assignment3/4Principles/4Principles/obj/Debug/net6.0/4Principles.genruntimeconfig.cache
+/Users/yangyu/eclipse-workspace/409cyk/src/antra_01/C#Assignment3/4Principles/4Principles/obj/Debug/net6.0/ref/4Principles.dll
