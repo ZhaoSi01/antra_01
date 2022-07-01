@@ -1,4 +1,26 @@
 ﻿<Properties StartupConfiguration="{1B622D65-F991-4091-8FE5-EE2C3464B5BF}|Default">
-  <MonoDevelop.Ide.ItemProperties.Salary FirstBuild="True" />
+  <MonoDevelop.Ide.ItemProperties.Salary PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Salary/salary.cs">
+    <Files>
+      <File FileName="Salary/salary.cs" Line="31" Column="5" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Salary" expanded="True">
+            <Node name="Salary" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
   <MultiItemStartupConfigurations />
 </Properties>
