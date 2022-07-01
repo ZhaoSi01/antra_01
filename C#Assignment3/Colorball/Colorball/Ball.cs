@@ -8,15 +8,24 @@ namespace Colorball
         {
 			var b1 = new Ball();
 			b1.ColorGet(0, 12, 0, 0);
-			b1.r = 3;
+			b1.r = 4;
+			b1.showR();
 			b1.thr();
 			b1.showR();
 
 			var b2 = new Ball();
 			b2.ColorGet(10, 12, 10, 0);
-			b2.r = 3;
+			b2.r = 13;
+			b1.showR();
 			b2.thr();
 			b2.showR();
+
+			var b3 = new Ball();
+			b3.ColorGet(10, 12, 140, 110);
+			b3.r = 23;
+			b1.showR();
+			b3.thr();
+			b3.showR();
 
 
 		}
