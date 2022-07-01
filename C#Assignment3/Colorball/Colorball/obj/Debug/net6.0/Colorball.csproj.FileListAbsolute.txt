@@ -1,0 +1,5 @@
+/Users/yangyu/eclipse-workspace/409cyk/src/antra_01/C#Assignment3/Colorball/Colorball/obj/Debug/net6.0/Colorball.csproj.AssemblyReference.cache
+/Users/yangyu/eclipse-workspace/409cyk/src/antra_01/C#Assignment3/Colorball/Colorball/obj/Debug/net6.0/Colorball.GeneratedMSBuildEditorConfig.editorconfig
+/Users/yangyu/eclipse-workspace/409cyk/src/antra_01/C#Assignment3/Colorball/Colorball/obj/Debug/net6.0/Colorball.AssemblyInfoInputs.cache
+/Users/yangyu/eclipse-workspace/409cyk/src/antra_01/C#Assignment3/Colorball/Colorball/obj/Debug/net6.0/Colorball.AssemblyInfo.cs
+/Users/yangyu/eclipse-workspace/409cyk/src/antra_01/C#Assignment3/Colorball/Colorball/obj/Debug/net6.0/Colorball.csproj.CoreCompileInputs.cache
