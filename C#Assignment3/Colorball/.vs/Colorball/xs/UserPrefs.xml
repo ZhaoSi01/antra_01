@@ -1,4 +1,27 @@
 ﻿<Properties StartupConfiguration="{AB2A6604-7F14-4E49-9CE4-752AD7D35214}|Default">
-  <MonoDevelop.Ide.ItemProperties.Colorball FirstBuild="True" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Colorball/Ball.cs">
+    <Files>
+      <File FileName="Colorball/Color.cs" Line="23" Column="2" />
+      <File FileName="Colorball/Ball.cs" Line="26" Column="15" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Colorball" expanded="True">
+            <Node name="Colorball" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.ItemProperties.Colorball PreferredExecutionTarget="MonoDevelop.Default" />
   <MultiItemStartupConfigurations />
 </Properties>
