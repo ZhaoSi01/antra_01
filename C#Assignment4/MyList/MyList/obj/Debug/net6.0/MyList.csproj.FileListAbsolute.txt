@@ -1,0 +1,15 @@
+/Users/yangyu/eclipse-workspace/409cyk/src/antra_01/C#Assignment4/MyList/MyList/obj/Debug/net6.0/MyList.csproj.AssemblyReference.cache
+/Users/yangyu/eclipse-workspace/409cyk/src/antra_01/C#Assignment4/MyList/MyList/obj/Debug/net6.0/MyList.GeneratedMSBuildEditorConfig.editorconfig
+/Users/yangyu/eclipse-workspace/409cyk/src/antra_01/C#Assignment4/MyList/MyList/obj/Debug/net6.0/MyList.AssemblyInfoInputs.cache
+/Users/yangyu/eclipse-workspace/409cyk/src/antra_01/C#Assignment4/MyList/MyList/obj/Debug/net6.0/MyList.AssemblyInfo.cs
+/Users/yangyu/eclipse-workspace/409cyk/src/antra_01/C#Assignment4/MyList/MyList/obj/Debug/net6.0/MyList.csproj.CoreCompileInputs.cache
+/Users/yangyu/eclipse-workspace/409cyk/src/antra_01/C#Assignment4/MyList/MyList/bin/Debug/net6.0/MyList
+/Users/yangyu/eclipse-workspace/409cyk/src/antra_01/C#Assignment4/MyList/MyList/bin/Debug/net6.0/MyList.deps.json
+/Users/yangyu/eclipse-workspace/409cyk/src/antra_01/C#Assignment4/MyList/MyList/bin/Debug/net6.0/MyList.runtimeconfig.json
+/Users/yangyu/eclipse-workspace/409cyk/src/antra_01/C#Assignment4/MyList/MyList/bin/Debug/net6.0/MyList.dll
+/Users/yangyu/eclipse-workspace/409cyk/src/antra_01/C#Assignment4/MyList/MyList/bin/Debug/net6.0/MyList.pdb
+/Users/yangyu/eclipse-workspace/409cyk/src/antra_01/C#Assignment4/MyList/MyList/obj/Debug/net6.0/MyList.dll
+/Users/yangyu/eclipse-workspace/409cyk/src/antra_01/C#Assignment4/MyList/MyList/obj/Debug/net6.0/refint/MyList.dll
+/Users/yangyu/eclipse-workspace/409cyk/src/antra_01/C#Assignment4/MyList/MyList/obj/Debug/net6.0/MyList.pdb
+/Users/yangyu/eclipse-workspace/409cyk/src/antra_01/C#Assignment4/MyList/MyList/obj/Debug/net6.0/MyList.genruntimeconfig.cache
+/Users/yangyu/eclipse-workspace/409cyk/src/antra_01/C#Assignment4/MyList/MyList/obj/Debug/net6.0/ref/MyList.dll
