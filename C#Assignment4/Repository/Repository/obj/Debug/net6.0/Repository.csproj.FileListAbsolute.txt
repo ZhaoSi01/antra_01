@@ -1,0 +1,5 @@
+/Users/yangyu/eclipse-workspace/409cyk/src/antra_01/C#Assignment4/Repository/Repository/obj/Debug/net6.0/Repository.csproj.AssemblyReference.cache
+/Users/yangyu/eclipse-workspace/409cyk/src/antra_01/C#Assignment4/Repository/Repository/obj/Debug/net6.0/Repository.GeneratedMSBuildEditorConfig.editorconfig
+/Users/yangyu/eclipse-workspace/409cyk/src/antra_01/C#Assignment4/Repository/Repository/obj/Debug/net6.0/Repository.AssemblyInfoInputs.cache
+/Users/yangyu/eclipse-workspace/409cyk/src/antra_01/C#Assignment4/Repository/Repository/obj/Debug/net6.0/Repository.AssemblyInfo.cs
+/Users/yangyu/eclipse-workspace/409cyk/src/antra_01/C#Assignment4/Repository/Repository/obj/Debug/net6.0/Repository.csproj.CoreCompileInputs.cache
