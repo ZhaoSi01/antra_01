@@ -1,4 +1,27 @@
 ﻿<Properties StartupConfiguration="{33833D6F-43F2-46AD-89A9-C8D88048C9DE}|Default">
-  <MonoDevelop.Ide.ItemProperties.Repository FirstBuild="True" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.Repository PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Repository/IdIRepository.cs">
+    <Files>
+      <File FileName="Repository/IRepository.cs" Line="12" Column="13" />
+      <File FileName="Repository/IdIRepository.cs" Line="16" Column="24" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Repository" expanded="True">
+            <Node name="Repository" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
   <MultiItemStartupConfigurations />
 </Properties>

@@ -5,11 +5,11 @@ using System.Linq;
 using System.Threading.Tasks;
 using System.Text;
 
-namespace Repository
+namespace Repository.IRepository
 {
 	public interface IRepository<T> where T : class
     {
-        int Add(T obj);
+        void Add(T obj);
         void Remove(T obj);
         void save();
         IEnumerable<T> GetAll();
