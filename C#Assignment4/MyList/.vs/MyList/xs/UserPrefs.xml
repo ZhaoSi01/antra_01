@@ -1,4 +1,25 @@
 ﻿<Properties StartupConfiguration="{DB691573-0B6F-4018-9FB8-8CDA3861ECB2}|Default">
-  <MonoDevelop.Ide.ItemProperties.MyList FirstBuild="True" />
+  <MonoDevelop.Ide.ItemProperties.MyList PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workbench>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="MyList" expanded="True">
+            <Node name="MyList" expanded="True">
+              <Node name="test.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
   <MultiItemStartupConfigurations />
 </Properties>

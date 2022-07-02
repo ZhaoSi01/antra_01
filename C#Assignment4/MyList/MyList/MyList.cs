@@ -7,9 +7,12 @@ namespace MyList
 	public class MyList<T>
 	{
 
-        List<T> list = new List<T>();
+		List<T> list;
+		public List<T> Mylist(){
+			list = new List<T>();
+			return list;
+		}
 		
-
 
 		public static void Add(T element, List<T> list)
 		{
